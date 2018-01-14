@@ -5,3 +5,5 @@ There is btchat.aia file, that you can use it in MIT App inventor, to edit sourc
 
 When I release newer versions, .aia files can use only in Makeroid.
 
+BChat is downloadable from F-Droid.
+
